@@ -197,4 +197,4 @@ Just another great example of how powerful and flexible Elixir is, thanks to mac
 
 ## Don't try this at home
 
-I probably shouldn't have to say this, but this was simply an experiment, and `MutableEach` should not be used in your Elixir code. Simply using `Enum.reduce_while/3` and `throw` directly in your own code is more explicit, and explicit is better than implicit.
+I probably shouldn't have to say this, but this was simply an experiment, and `MutableEach` should not be used in your Elixir code. Simply using `Enum.reduce_while/3` (no `throw` needed, probably!) directly in your own code is more explicit, and explicit is better than implicit.
