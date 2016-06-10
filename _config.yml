@@ -1,26 +1,21 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
+# Site settings
+title: ericent.in
+full_name: Eric Entin
+email: eric@ericent.in
+description: >
+  Elixir team lead at FanDuel. Experienced with Elixir/Erlang, Haskell, Ruby,
+  and C++. Elixir, Phoenix, Ecto, and Postgrex contributor.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ericent.in" # the base hostname & protocol for your site
+twitter_username: antipax
+github_username:  antipax
 
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+# Build settings
+markdown: kramdown
