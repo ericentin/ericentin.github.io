@@ -14,8 +14,8 @@ description: >
   and C++. Elixir, Phoenix, Ecto, and Postgrex contributor.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ericent.in" # the base hostname & protocol for your site
-twitter_username: antipax
-github_username:  antipax
+twitter_username: ericentin
+github_username:  ericentin
 
 # Build settings
 markdown: kramdown

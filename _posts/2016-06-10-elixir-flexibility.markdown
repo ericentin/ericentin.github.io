@@ -165,7 +165,7 @@ assert sum == 6
 
 "How is this possible in Elixir? I thought we couldn't refer to variables by reference!", you might say. Well, thanks to the power of macros, almost [anything](https://github.com/wojtekmach/oop) is possible in Elixir.
 
-Introducing: [`MutableEach`](https://github.com/antipax/mutable_each), a library which implements "mutable" iteration in Elixir.
+Introducing: [`MutableEach`](https://github.com/ericentin/mutable_each), a library which implements "mutable" iteration in Elixir.
 
 Ultimately, the example above expands to something that looks somewhat like:
 
@@ -199,4 +199,4 @@ Just another great example of how powerful and flexible Elixir is, thanks to mac
 
 I probably shouldn't have to say this, but this was simply an experiment, and `MutableEach` should not be used in your Elixir code. Simply using `Enum.reduce_while/3` (no `throw` needed, probably!) directly in your own code is more explicit, and explicit is better than implicit.
 
-## If you enjoyed this blog, follow me on Twitter [here](https://twitter.com/antipax)!
+## If you enjoyed this blog, follow me on Twitter [here](https://twitter.com/ericentin)!
