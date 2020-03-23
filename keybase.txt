@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ericentin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ericent.in
+  * I am ericentin (https://keybase.io/ericentin) on keybase.
+  * I have a public key with fingerprint E17E 484D 90F7 6C4D 6769  5921 D13B 7997 832C 4B25
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f9172723781fefef64a8794363790d9be887c33aebb755b9befc3dd1119822f30a",
+      "fingerprint": "e17e484d90f76c4d67695921d13b7997832c4b25",
+      "host": "keybase.io",
+      "key_id": "d13b7997832c4b25",
+      "kid": "0101f9172723781fefef64a8794363790d9be887c33aebb755b9befc3dd1119822f30a",
+      "uid": "34a49bbceee01b20c86a789e5cc1ae19",
+      "username": "ericentin"
+    },
+    "service": {
+      "hostname": "ericent.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1584988697,
+  "expire_in": 157680000,
+  "prev": "9ea6788f6a1f62fc7616a7086f26b4e5bb1dd8a96458ce3797be8bbe5aa0035e",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJbSBVBGD5HrfBGSiWKJLVZRByPO3ubmRN2MX2IoCgKNKPTzu6sburu
+6ZzVOpnWU0EXKImoCLQLpWXRBYp6MM0sQS0pSogOIgSliYGCLyk2K/UQ9NjMw/B/
+fP/3/9/HvEyN9yR5i67UzFwbXtvt7e28UOPZG43LquOIrUe5QB1XSeceWqXTiBOs
+NHUuwPGABwYGUICCCBEwKLuKpCKIJVERIeZ1TChCUBNFlRICZZkwwNBEXQcAYCQI
+hsirnI8zTKuchkNh03KYLAWQSkjSMW9ARZN0BSpYxgLQgUggxhCJgiYRQWaNFXbE
+7WDLETVC/abNMFYE59b7B/8/710zJydKqoQJ0SilPCACryFFhQhTWdOASgF2iREa
+ttRq6roLmxq1HNPi6n0cg2tZ6SbrWvmb4mccHxcK246t2VUMr3CcUCTg9jnRkEs8
+SEnwt0SQmJbOYmQdtTQcMW2LCwDG1BzT1QQykjBCCoY+jh4KmWEaNF2GDBXEs+PO
+obVMElNVgQgZigoMRTA0qADmhkeKIShEojIhQNeRihVJRhplYUEWFSFUVlWeF2XK
+uaYOWDYXYJMctZxJRsxyS3VqwpSrf9GxJ8HjTfLMnxfnfi9PUmLan0+3ZGzBdHL0
+3fmAvO7+9lXTi2FJ39rZgdz3R7KNzScz5ZjjbXtanBMdK5q4fGr4Vv54taduWxPc
+vbVgZ3r7Gv/EsXwh4+hF+fb8jq/lMwlD10ti/mdnH0WngkDcMHv3Yv2HwRXWx1Dq
+y5yV+GZhemVr86LDicWeZWUd4+1d9sj6He1LR/Ozzm3J+N6fObW6sDMlHpY6j39O
+3GssTRjOPtG0JLfvzptVLXkFXc1T097Bzv2T+4Ir6SWzfaRq77B34ausz/0DX0bt
+IV9Z465Nr315M6fBj4bxB/kZu5Nblr1tKHmysbC7+fjVnm83Dh/3tvW+PtP/yXm4
+43ksltmSNjDZWtazfISkFP4C4FY/aA==
+=P+RA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ericentin
+
+==================================================================
